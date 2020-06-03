@@ -28,14 +28,14 @@ github:
   username: saisuryakat             # change to your github username
 
 twitter:
-  username: saisurya_kat            # change to your twitter username
+  username: saisuryakat            # change to your twitter username
 
 social:
   name: Saisurya Kattamuri                  # it will shows as the copyright owner in Footer
   email: saisurya.kat@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/saisurya_kat      # change to your twitter homepage
+    - https://twitter.com/saisuryakat      # change to your twitter homepage
     - https://github.com/saisuryakat       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.linkedin.com/in/saisurya-kattamuri-7b667444
