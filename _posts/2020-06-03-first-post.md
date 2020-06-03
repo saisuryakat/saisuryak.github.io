@@ -4,7 +4,7 @@ date: 2020-06-03 20:55:00 +0700
 categories: [Blogging]
 tags: [writing]
 seo:
-  date_modified: 2020-06-03 16:42:40 +0700
+  date_modified: 2020-06-03 17:12:13 +0700
 ---
 
 # Quotes of Swami Vivekananda
